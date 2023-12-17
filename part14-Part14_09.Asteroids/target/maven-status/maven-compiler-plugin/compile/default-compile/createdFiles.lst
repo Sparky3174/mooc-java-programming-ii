@@ -1,0 +1,7 @@
+asteroids\domain\Entity.class
+asteroids\AsteroidsApplication.class
+asteroids\domain\PlayerShip.class
+asteroids\domain\PolygonFactory.class
+asteroids\AsteroidsApplication$1.class
+asteroids\domain\Asteroid.class
+asteroids\domain\Projectile.class
